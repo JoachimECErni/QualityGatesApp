@@ -146,5 +146,8 @@
       }
     }
   },
-  "defaultProject": "quality-gates-app"
+  "defaultProject": "quality-gates-app",
+  "cli": {
+    "analytics": false
+  }
 }

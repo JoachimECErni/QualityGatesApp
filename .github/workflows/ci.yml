@@ -113,7 +113,7 @@ jobs:
 
   joachim_cobar:
     runs-on: ubuntu-latest
-    needs: lint_and_unit
+    needs: build
 
     steps:
       - name: Checkout code
